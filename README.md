@@ -7,7 +7,15 @@
     <body>
     
 <h1>How to  code HTML</h1>
-<h2>Tags
+<ul>
+
+
+<li>paragraph tags</li>
+  <li>       Header tags   </li>
+<li>  The start of a webpage   </li>
+  
+  </ul>
+<h2 id="p-tag" > paragraph tags
     
     
     
