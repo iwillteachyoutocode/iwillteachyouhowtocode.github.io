@@ -28,7 +28,7 @@
 
 <p> there is a certain few lines of code needed to create a website</p>
 
-<   src=""img> 
+<img src="">
 
 
 
