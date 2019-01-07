@@ -21,9 +21,9 @@
 
 <img src="https://ka-perseus-images.s3.amazonaws.com/2b914caea7fdf9df8ff30e4780096d38624cab4f.png">  
 
-<p>If you were to create a header tag instead of a paragraph tag, you would simply substitute the p for h1-6 no capitals. </p>
+<p>a header tag would look like this. the 1 can be substitued for any number 1-6</p>
 
-<img   src="">
+<img   src="https://www.raybriant.com/wp-content/uploads/2011/09/heading-tags.gif">
 
 
 
