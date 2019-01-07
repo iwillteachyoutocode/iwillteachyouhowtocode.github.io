@@ -31,7 +31,7 @@
 <img src="https://ka-perseus-images.s3.amazonaws.com/a88dceb91dbddc6f1c031bf92bedb90afca3ff05.png">
 
 
-
+<p> you need all of those tags, except the p, and h1 tag. all your lines of code go in the body tag. </p>
 
 
 
