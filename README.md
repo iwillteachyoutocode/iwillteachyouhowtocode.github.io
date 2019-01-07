@@ -28,7 +28,7 @@
 
 <p> there is a certain few lines of code needed to create a website</p>
 
-<img src="">
+<img src="https://ka-perseus-images.s3.amazonaws.com/a88dceb91dbddc6f1c031bf92bedb90afca3ff05.png">
 
 
 
