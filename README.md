@@ -13,7 +13,7 @@
     
      
 </h2><p>  There is the h1-6 tag 1 being the largest and 6 being the smallest. the other main writing tag is the p tag which stands for paragraph.
-    <br>    You would write a paragraph tag  like thi: <br> 
+    <br>    You would write a paragraph tag  like this: <br> 
 
     
     
@@ -26,9 +26,9 @@
 <img   src="https://www.raybriant.com/wp-content/uploads/2011/09/heading-tags.gif">
 
 
+<p> there is a certain few lines of code needed to create a website</p>
 
-
-
+<   src=""img> 
 
 
 
