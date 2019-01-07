@@ -13,7 +13,7 @@
     
      
 </h2><p>  There is the h1-6 tag 1 being the largest and 6 being the smallest. the other main writing tag is the p tag which stands for paragraph.
-    <br>    You would write a paragraph tag  like this: <br> 
+    <br>    You would write a paragraph tag  like thi: <br> 
 
     
     
